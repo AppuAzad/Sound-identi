@@ -1,0 +1,45 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+    background-color: black;
+}
+
+.header_div {
+    background-color: blue;
+    color: cornsilk;
+}
+
+.header_div p {
+    color: red;
+    letter-spacing: 2px;
+    font-size: 12px;
+    font-weight: bold;
+}
+
+.main_div button {
+    margin-top: 30px;
+    width: 70px;
+    font-weight: bolder;
+    letter-spacing: 2px;
+}
+#result_label{
+    color: rgb(72, 255, 0);
+    font-weight: bold;
+}
+#result_accuracy{
+    color: royalblue;
+    font-weight: bold;
+}
+.copy_right_footer{
+    position: fixed;
+    color:rgb(245, 6, 6);
+    bottom: 0;
+    width: 100%;
+    font-size: 30px;
+    background-color: yellow;
+    line-height: 3;
+    text-align: center;
+    text-shadow: 5px 5px 5px white;
+    font-weight: bold;
+    
+
+}
